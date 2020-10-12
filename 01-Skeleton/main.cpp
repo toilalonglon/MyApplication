@@ -11,6 +11,7 @@
 	4/ CGameObject is an abstract class for all game objects
 ================================================================ */
 
+//hello
 #include <windows.h>
 #include <d3d9.h>
 #include <d3dx9.h>
